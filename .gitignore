@@ -1,0 +1,12 @@
+/bin
+/.settings
+.project
+/.externalToolBuilders
+/src
+/lib
+s.bat
+log.txt
+s.ps1
+/target
+warnings.txt
+.classpath
